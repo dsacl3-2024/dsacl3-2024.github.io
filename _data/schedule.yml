@@ -1,0 +1,127 @@
+- week: "01"
+  dates:
+    Oct 21:
+      topic: introduction / administrivia
+      links:
+        slides: slides/introduction.pdf
+        8up: slides/introduction-handout.pdf
+    Oct 23:
+      topic: recap
+    Oct 25:
+      topic: Assignment 0
+      links:
+        description: https://dsacl3-2024.github.io/a0
+- week: "02"
+  dates:
+    Oct 28:
+      topic: analysis of algorithms
+    Oct 30:
+      topic: common algorithmic patterns
+    Nov 01:
+      topic: lab
+- week: "03"
+  dates:
+    Nov 04:
+      topic: sorting
+    Nov 06:
+      topic: trees
+    Nov 08:
+      topic: lab
+- week: "04"
+  dates:
+    Nov 11:
+      topic: "heaps, priority queues"
+    Nov 13:
+      topic: "graphs: intro"
+    Nov 15:
+      topic: lab
+- week: "05"
+  dates:
+    Nov 18:
+      topic: "graphs: traversals"
+    Nov 20:
+      topic: "directed graphs"
+    Nov 22:
+      topic: lab
+- week: "06"
+  dates:
+    Nov 25:
+      topic: "graphs: shortest paths"
+    Nov 27:
+      topic: "graphs: MST"
+    Nov 29:
+      topic: lab
+- week: "07"
+  dates:
+    Dec 02:
+      topic: summary
+    Dec 04:
+      topic: maps / hashes
+    Dec 06:
+      topic: lab
+- week: "08"
+  dates:
+    Dec 09:
+      topic: string matching
+    Dec 11:
+      topic: edit distance
+    Dec 13:
+      topic: lab
+- week: "09"
+  dates:
+    Dec 16:
+      topic: tries
+    Dec 18:
+      topic: summary
+    Dec 20:
+      topic: lab
+- week: "10"
+  dates:
+    Dec 23: sem. break
+    Dec 25: sem. break
+    Dec 27: sem. break
+- week: "11"
+  dates:
+    Dec 30: sem. break
+    Jan 01: sem. break
+    Jan 03: sem. break
+- week: "12"
+  dates:
+    Jan 06:
+      topic: FSA intro
+    Jan 08:
+      topic: FSA determinization / minimization
+    Jan 10:
+      topic: lab
+- week: "13"
+  dates:
+    Jan 13:
+      topic: FSTs
+    Jan 15:
+      topic: FSA and regular languages
+    Jan 17:
+      topic: lab
+- week: "14"
+  dates:
+    Jan 20:
+      topic: "CFG Parsing: Intro"
+    Jan 22:
+      topic: CKY & Earley
+    Jan 24:
+      topic: lab
+- week: "15"
+  dates:
+    Jan 27:
+      topic: Dependency Parsing
+    Jan 29:
+      topic: Dependency Parsing
+    Jan 31:
+      topic: lab
+- week: "16"
+  dates:
+    Feb 03:
+      topic: Summary
+    Feb 05:
+      topic: Summary & Q&A
+    Feb 07:
+      topic: Exam
