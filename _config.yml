@@ -16,8 +16,8 @@ description: > # ignore newlines until "baseurl:"
     Data Structures and Algorithms for Computational Linguistics III
     taught in the linguistic department (SfS), University of Tübingen.
 baseurl: ""
-url: "https://dsacl3-2022.github.io"
-github_username:  dsacl3-2022
+url: "https://dsacl3-2024.github.io"
+github_username:  dsacl3-2024
 encoding: utf-8
 future: true
 
