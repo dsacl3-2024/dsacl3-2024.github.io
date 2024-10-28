@@ -18,10 +18,12 @@
   dates:
     Oct 28:
       topic: analysis of algorithms
+      links:
+        slides: slides/analysis.pdf
+        8up: slides/analysis-handout.pdf
     Oct 30:
       topic: common algorithmic patterns
-    Nov 01:
-      topic: lab
+    Nov 01: no lab
 - week: "03"
   dates:
     Nov 04:
