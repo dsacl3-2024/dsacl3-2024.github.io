@@ -23,13 +23,25 @@
         8up: slides/analysis-handout.pdf
     Oct 30:
       topic: common algorithmic patterns
-    Nov 01: no lab
+      links:
+        slides: slides/patterns.pdf
+        8up: slides/patterns-handout.pdf
+    Nov 01: 
+      topic: no lab, public holiday
+      links:
+        "Assignment 1": https://dsacl3-2024.github.io/a0
 - week: "03"
   dates:
     Nov 04:
       topic: sorting
+      links:
+        slides: slides/sorting.pdf
+        8up: slides/sorting-handout.pdf
     Nov 06:
       topic: trees
+      links:
+        slides: slides/trees.pdf
+        8up: slides/trees-handout.pdf
     Nov 08:
       topic: lab
 - week: "04"
