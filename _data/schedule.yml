@@ -48,8 +48,14 @@
   dates:
     Nov 11:
       topic: "heaps, priority queues"
+      links:
+        slides: slides/pq-heap.pdf
+        8up: slides/pq-heap-handout.pdf
     Nov 13:
       topic: "graphs: intro"
+      links:
+        slides: slides/graphs-intro.pdf
+        8up: slides/graphs-intro-handout.pdf
     Nov 15:
       topic: lab
 - week: "05"
