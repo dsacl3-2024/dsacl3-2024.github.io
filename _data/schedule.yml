@@ -62,6 +62,9 @@
   dates:
     Nov 18:
       topic: "graphs: traversals"
+      links:
+        slides: slides/graph-traversal.pdf
+        8up: slides/graph-traversal-handout.pdf
     Nov 20:
       topic: "directed graphs"
     Nov 22:
