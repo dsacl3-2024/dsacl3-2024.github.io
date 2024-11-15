@@ -6,7 +6,7 @@ title: Home
 ## Introduction
 
 This is the web page of the course
-*Data Structures and Algorithms for Computational Lingustics III, WS 2023-2024*
+*Data Structures and Algorithms for Computational Lingustics III, WS 2024-2025*
 taught at the
 [Department of Computational Linguistics](https://uni-tuebingen.de/en/134536),
 [University of Tübingen](https://uni-tuebingen.de/).
