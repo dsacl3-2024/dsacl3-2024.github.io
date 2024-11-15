@@ -11,9 +11,9 @@
         slides: slides/recap.pdf
         8up: slides/recap-handout.pdf
     Oct 25:
-      topic: Assignment 0
+      topic: lab
       links:
-        description: https://dsacl3-2024.github.io/a0
+        Assignment 0: https://dsacl3-2024.github.io/a0
 - week: "02"
   dates:
     Oct 28:
@@ -29,7 +29,8 @@
     Nov 01: 
       topic: no lab, public holiday
       links:
-        "Assignment 1": https://dsacl3-2024.github.io/a0
+        Assignment 1: https://dsacl3-2024.github.io/a1
+      
 - week: "03"
   dates:
     Nov 04:
@@ -44,6 +45,8 @@
         8up: slides/trees-handout.pdf
     Nov 08:
       topic: lab
+      links:
+        Assignment 2: https://dsacl3-2024.github.io/a2
 - week: "04"
   dates:
     Nov 11:
@@ -58,6 +61,8 @@
         8up: slides/graphs-intro-handout.pdf
     Nov 15:
       topic: lab
+      links:
+        Assignment 3: https://dsacl3-2024.github.io/a3
 - week: "05"
   dates:
     Nov 18:
