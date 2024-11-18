@@ -72,12 +72,18 @@
         8up: slides/graph-traversal-handout.pdf
     Nov 20:
       topic: "directed graphs"
+      links:
+        slides: slides/digraphs.pdf
+        8up: slides/digraphs-handout.pdf
     Nov 22:
       topic: lab
 - week: "06"
   dates:
     Nov 25:
       topic: "graphs: shortest paths"
+      links:
+        slides: slides/shortest-paths.pdf
+        8up: slides/shortest-paths-handout.pdf
     Nov 27:
       topic: "graphs: MST"
     Nov 29:
