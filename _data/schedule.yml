@@ -88,6 +88,9 @@
         8up: slides/shortest-paths-handout.pdf
     Nov 27:
       topic: "graphs: MST"
+      links:
+        slides: slides/mst.pdf
+        8up: slides/mst-handout.pdf
     Nov 29:
       topic: lab
 - week: "07"
@@ -96,6 +99,9 @@
       topic: summary
     Dec 04:
       topic: maps / hashes
+      links:
+        slides: slides/hashing.pdf
+        8up: slides/hashing-handout.pdf
     Dec 06:
       topic: lab
 - week: "08"
