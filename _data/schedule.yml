@@ -93,6 +93,8 @@
         8up: slides/mst-handout.pdf
     Nov 29:
       topic: lab
+      links:
+        Assignment 5: https://dsacl3-2024.github.io/a5
 - week: "07"
   dates:
     Dec 02:
