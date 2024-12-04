@@ -106,6 +106,8 @@
         8up: slides/hashing-handout.pdf
     Dec 06:
       topic: lab
+      links:
+        Assignment 6: https://dsacl3-2024.github.io/a6
 - week: "08"
   dates:
     Dec 09:
