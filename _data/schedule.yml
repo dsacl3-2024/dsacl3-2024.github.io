@@ -117,12 +117,18 @@
         8up: slides/string-matching-handout.pdf
     Dec 11:
       topic: edit distance
+      links:
+        slides: slides/edit-distance.pdf
+        8up: slides/edit-distance-handout.pdf
     Dec 13:
       topic: lab
 - week: "09"
   dates:
     Dec 16:
       topic: tries
+      links:
+        slides: slides/tries.pdf
+        8up: slides/tries-handout.pdf
     Dec 18:
       topic: summary
     Dec 20:
