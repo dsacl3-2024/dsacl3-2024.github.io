@@ -146,15 +146,15 @@
 - week: "12"
   dates:
     Jan 06:
-      topic: FSA intro
+      topic: 
     Jan 08:
-      topic: FSA determinization / minimization
+      topic: FSA intro
     Jan 10:
       topic: lab
 - week: "13"
   dates:
     Jan 13:
-      topic: FSTs
+      topic: FSA determinization / minimization
     Jan 15:
       topic: FSA and regular languages
     Jan 17:
@@ -162,15 +162,15 @@
 - week: "14"
   dates:
     Jan 20:
-      topic: "CFG Parsing: Intro"
+      topic: FSTs
     Jan 22:
-      topic: CKY & Earley
+      topic: "CFG Parsing: Intro"
     Jan 24:
       topic: lab
 - week: "15"
   dates:
     Jan 27:
-      topic: Dependency Parsing
+      topic: CKY & Earley
     Jan 29:
       topic: Dependency Parsing
     Jan 31:
@@ -178,7 +178,7 @@
 - week: "16"
   dates:
     Feb 03:
-      topic: Summary
+      topic: Dependency Parsing
     Feb 05:
       topic: Summary & Q&A
     Feb 07:
