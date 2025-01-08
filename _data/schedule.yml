@@ -149,12 +149,20 @@
       topic: 
     Jan 08:
       topic: FSA intro
+      links:
+        slides: slides/fsa.pdf
+        8up: slides/fsa-handout.pdf
     Jan 10:
       topic: lab
 - week: "13"
   dates:
     Jan 13:
       topic: FSA determinization / minimization
+      links:
+        deterministation: slides/fsa-determinization.pdf
+        deterministation-8up: slides/fsa-determinization-handout.pdf
+        minimization: slides/fsa-minimization.pdf
+        minimization-8up: slides/fsa-minimization-handout.pdf
     Jan 15:
       topic: FSA and regular languages
     Jan 17:
