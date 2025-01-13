@@ -145,8 +145,7 @@
     Jan 03: sem. break
 - week: "12"
   dates:
-    Jan 06:
-      topic: 
+    Jan 06: no class
     Jan 08:
       topic: FSA intro
       links:
@@ -165,6 +164,9 @@
         minimization-8up: slides/fsa-minimization-handout.pdf
     Jan 15:
       topic: FSA and regular languages
+      links:
+        slides: slides/fsa-regular.pdf
+        8up: slides/fsa-regular-handout.pdf
     Jan 17:
       topic: lab
 - week: "14"
