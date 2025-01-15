@@ -173,6 +173,9 @@
   dates:
     Jan 20:
       topic: FSTs
+      links:
+        slides: slides/fst.pdf
+        8up: slides/fst-handout.pdf
     Jan 22:
       topic: "CFG Parsing: Intro"
     Jan 24:
