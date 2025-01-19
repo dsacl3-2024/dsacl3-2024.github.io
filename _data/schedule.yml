@@ -122,6 +122,8 @@
         8up: slides/edit-distance-handout.pdf
     Dec 13:
       topic: lab
+      links:
+        Assignment 7: https://dsacl3-2024.github.io/a7
 - week: "09"
   dates:
     Dec 16:
@@ -133,6 +135,9 @@
       topic: summary
     Dec 20:
       topic: lab
+      links:
+        Assignment 7: https://dsacl3-2024.github.io/a7
+        Assignment 8: https://moodle.zdv.uni-tuebingen.de/mod/quiz/view.php?id=33929
 - week: "10"
   dates:
     Dec 23: sem. break
@@ -153,6 +158,8 @@
         8up: slides/fsa-handout.pdf
     Jan 10:
       topic: lab
+      links:
+        Assignment 8: https://moodle.zdv.uni-tuebingen.de/mod/quiz/view.php?id=33929
 - week: "13"
   dates:
     Jan 13:
@@ -169,6 +176,8 @@
         8up: slides/fsa-regular-handout.pdf
     Jan 17:
       topic: lab
+      links:
+        Assignment 9: https://dsacl3-2024.github.io/a9
 - week: "14"
   dates:
     Jan 20:
@@ -180,6 +189,8 @@
       topic: "CFG Parsing: Intro"
     Jan 24:
       topic: lab
+      links:
+        Assignment 9: https://dsacl3-2024.github.io/a9
 - week: "15"
   dates:
     Jan 27:
