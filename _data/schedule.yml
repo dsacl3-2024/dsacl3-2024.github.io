@@ -187,6 +187,9 @@
         8up: slides/fst-handout.pdf
     Jan 22:
       topic: "CFG Parsing: Intro"
+      links:
+        slides: slides/parsing-intro.pdf
+        8up: slides/parsing-intro-handout.pdf
     Jan 24:
       topic: lab
       links:
@@ -195,6 +198,11 @@
   dates:
     Jan 27:
       topic: CKY & Earley
+      links:
+        cky: slides/cky.pdf
+        cky-8up: slides/cky-handout.pdf
+        earley: slides/earley.pdf
+        earley-8up: slides/earley-handout.pdf
     Jan 29:
       topic: Dependency Parsing
     Jan 31:
