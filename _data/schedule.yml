@@ -205,6 +205,9 @@
         earley-8up: slides/earley-handout.pdf
     Jan 29:
       topic: Dependency Parsing
+      links:
+        slides: slides/dependency-parsing.pdf
+        8up: slides/dependency-parsing-handout.pdf
     Jan 31:
       topic: lab
 - week: "16"
